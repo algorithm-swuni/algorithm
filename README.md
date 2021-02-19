@@ -34,6 +34,8 @@
 
 `issue` 의 태그는 `topic` `problem` 두개의 태그를 달아서 올린다.
 
+예시 `string` `problem`
+
 
 ## 코드 리뷰 💜
 
