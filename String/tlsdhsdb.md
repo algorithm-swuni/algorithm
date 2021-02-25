@@ -232,3 +232,7 @@ class Solution:
         return result
 ```
 
+## result 
+
+![image](https://user-images.githubusercontent.com/42714724/109118852-347f9980-7787-11eb-8703-2621a4d87464.png)
+
