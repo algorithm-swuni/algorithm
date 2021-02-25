@@ -51,7 +51,7 @@ if __name__ == '__main__':
     print(solution(string1))
 ```
 
-![image-20210225153645819](C:\Users\ADMIN.DESKTOP-BIOGEDJ\AppData\Roaming\Typora\typora-user-images\image-20210225153645819.png)
+![image-20210225153645819](https://user-images.githubusercontent.com/42714724/109118614-e5d1ff80-7786-11eb-8cfb-24d9954eea47.png)
 
 ### problem  resolve
 
@@ -65,7 +65,7 @@ if __name__ == '__main__':
 
 ### result 
 
-![image-20210225154156968](C:\Users\ADMIN.DESKTOP-BIOGEDJ\AppData\Roaming\Typora\typora-user-images\image-20210225154156968.png)
+![image-20210225154156968](https://user-images.githubusercontent.com/42714724/109118621-e79bc300-7786-11eb-9ece-e9de22bf68e1.png)
 
 
 
@@ -152,9 +152,9 @@ filter 의 경우 해당 조건에 맞는 경우를 출력하는데 사용.
 
 
 
-![image-20210225155637697](C:\Users\ADMIN.DESKTOP-BIOGEDJ\AppData\Roaming\Typora\typora-user-images\image-20210225155637697.png)
+![image-20210225155637697](https://user-images.githubusercontent.com/42714724/109118637-e8ccf000-7786-11eb-8b4d-cc0ddcaa02f0.png)
 
-![image-20210225155645866](C:\Users\ADMIN.DESKTOP-BIOGEDJ\AppData\Roaming\Typora\typora-user-images\image-20210225155645866.png)
+![image-20210225155645866](https://user-images.githubusercontent.com/42714724/109118641-e9fe1d00-7786-11eb-9700-c39e05eab0ca.png)
 
 ``` python
 >>> mystring[6:]
