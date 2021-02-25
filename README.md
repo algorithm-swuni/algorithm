@@ -15,16 +15,16 @@
 
 ## 프로젝트 구조 💜
 
-`folder-name/topic/your-git-id problem-name`
+`folder-name/topic/your-git-id `
 
-`alogorithm/greedy/tlsdhsdb 그리디문제2`
+`alogorithm/greedy/tlsdhsdb `
 
 
 ## 커밋 규칙 💜
 
 `topic your-title your-git-id`
 
-`Greedy 그리디문제 2 tlsdhsdb`
+`Greedy 그리디문제 tlsdhsdb`
 
 ## 문제 규칙 💜
 
