@@ -52,7 +52,7 @@ if __name__ == '__main__':
 
 ### <u>Result</u>
 
-![image-20210225174411664](C:\Users\happy\AppData\Roaming\Typora\typora-user-images\image-20210225174411664.png)
+![image-20210226145944144](https://user-images.githubusercontent.com/66547492/109265217-84bf3000-7849-11eb-8f35-18616f487737.png)
 
 ### <u>Error Correction</u>
 
