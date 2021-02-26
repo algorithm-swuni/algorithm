@@ -116,7 +116,7 @@ def numJewelsInStones(jewels: str, stones: str) -> int:
 
 ### <u>Result</u>
 
-![image-20210226145944144](C:\Users\happy\AppData\Roaming\Typora\typora-user-images\image-20210226145944144.png)
+![image-20210225180340853](https://user-images.githubusercontent.com/66547492/109265438-e7183080-7849-11eb-8520-a07f460e9c4a.png)
 
 ### <u>Big O</u>
 
