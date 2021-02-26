@@ -52,7 +52,7 @@ if __name__ == '__main__':
 
 ### <u>Result</u>
 
-![image-20210226145944144](https://user-images.githubusercontent.com/66547492/109265217-84bf3000-7849-11eb-8f35-18616f487737.png)
+![image-20210225174411664](https://user-images.githubusercontent.com/66547492/109276061-e5099e00-7858-11eb-88cd-8e33ca29a71a.png)
 
 ### <u>Error Correction</u>
 
@@ -80,12 +80,16 @@ if __name__ == '__main__':
 
 ### <u>Result</u>
 
-![image-20210225180340853](C:\Users\happy\AppData\Roaming\Typora\typora-user-images\image-20210225180340853.png)
-
-
+![image-20210225174411664](https://user-images.githubusercontent.com/66547492/109276061-e5099e00-7858-11eb-88cd-8e33ca29a71a.png)
 
 ### <u>Big O </u>
-
+```python
+def palindrome(s: str) -> bool:
+    string = ""
+    for char in s: # n번 수행
+        if char.isalnum(): # 이중 Loop 없음
+            string += char.lower()
+```
 for문에서 주어진 문자열 길이만큼 반복되므로 시간 복잡도는 **O(n)**
 
 
@@ -119,6 +123,12 @@ def numJewelsInStones(jewels: str, stones: str) -> int:
 ![image-20210225180340853](https://user-images.githubusercontent.com/66547492/109265438-e7183080-7849-11eb-8520-a07f460e9c4a.png)
 
 ### <u>Big O</u>
-
+```python
+def numJewelsInStones(jewels: str, stones: str) -> int:
+    result = 0
+    for jewel in jewels:   # n번 반복
+        result += stones.count(jewel) 
+    return result
+```
 for문에서 주어진 jewels 리스트의 요소 개수만큼 반복하므로 시간복잡도는 **O(n)**
 
