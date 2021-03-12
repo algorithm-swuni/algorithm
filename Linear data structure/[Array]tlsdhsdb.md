@@ -27,7 +27,8 @@ class Solution:
         return profit 
 ```
 
-![image-20210306000200398](C:\Users\tlsdh\AppData\Roaming\Typora\typora-user-images\image-20210306000200398.png)
+![image-20210306000200398](https://user-images.githubusercontent.com/42714724/110945885-980de780-8381-11eb-8773-80e1cd5e3492.png)
+
 
 
 
@@ -55,6 +56,9 @@ class Solution:
             
         return answer
 ```
+
+![image](https://user-images.githubusercontent.com/42714724/110946014-becc1e00-8381-11eb-824d-1f4b56545831.png)
+
 
 인덱스를 이용하는게 포인트다. 넣어줄때에도 가진 인덱스값을 이용하여 해당 위치에 넣어주는 것이 중요하다.
 
