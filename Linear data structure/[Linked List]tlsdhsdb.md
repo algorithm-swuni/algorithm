@@ -51,7 +51,8 @@ class Solution:
 
 단순하게 바꾸고 넘어가는 구조
 
-![image-20210312214100146](C:\Users\tlsdh\AppData\Roaming\Typora\typora-user-images\image-20210312214100146.png)
+![image-20210312214100146](https://user-images.githubusercontent.com/42714724/110946098-d3101b00-8381-11eb-822c-aee1d014a5bc.png)
+
 
 
 
@@ -87,5 +88,4 @@ class Solution:
 ```
 
 앞에서 이용한 노드의 구조와 자료형을 변환하는 것을 합침.
-
-![image-20210312221449507](C:\Users\tlsdh\AppData\Roaming\Typora\typora-user-images\image-20210312221449507.png)
+![image-20210312221449507](https://user-images.githubusercontent.com/42714724/110946133-da372900-8381-11eb-92a0-ec4a6b697c00.png)
