@@ -6,7 +6,8 @@
 
 마지막에 들어온 것이 먼저 나가는 LIFO(Last In First Out) 구조를 가진 자료구조. 대표적인 예가 브라우저의 뒤로가기.
 
-![image-20210317150043473](C:\Users\ADMIN.DESKTOP-BIOGEDJ\AppData\Roaming\Typora\typora-user-images\image-20210317150043473.png)
+![image-20210317150043473](https://user-images.githubusercontent.com/42714724/111427346-54c4c780-8739-11eb-8a62-6de25dcac6ce.png)
+
 
 
 
@@ -14,7 +15,8 @@
 
 스택과 달리 선입선출(FIFO) 구조를 가지고 있다. 대표적인 예로는 대기번호가 있다.
 
-![image-20210317150322853](C:\Users\ADMIN.DESKTOP-BIOGEDJ\AppData\Roaming\Typora\typora-user-images\image-20210317150322853.png)
+![image-20210317150322853](https://user-images.githubusercontent.com/42714724/111427355-59897b80-8739-11eb-907d-65272ed9ab27.png)
+
 
 은행 번호표의 경우를 생각해보자, 번호표 시스템 내부에서는 `다음 서비스를 받을 번호` 와 `가장 나중에 온 손님이 번호표를 뽑았을 때 몇 번의 번호표를 주어야할지` 를 어떻게 기억할까? 이러한 것을 편리하게 저장하려면 `서비스를 받을 처음 위치` `서비스를 받는 마지막 위치` 두개만 기억하면 된다. 이러한 위치를 큐에서는 `front` `rear` 이라고 한다.
 
@@ -95,7 +97,8 @@ class Solution:
         return len(stack) == 0
 ```
 
-![image-20210317143905308](C:\Users\ADMIN.DESKTOP-BIOGEDJ\AppData\Roaming\Typora\typora-user-images\image-20210317143905308.png)
+![image-20210317143905308](https://user-images.githubusercontent.com/42714724/111427481-83db3900-8739-11eb-9e95-0a83ebc90716.png)
+
 
 
 
@@ -198,4 +201,4 @@ param_4 = obj.empty()
 
 
 
-![image-20210317155145829](C:\Users\ADMIN.DESKTOP-BIOGEDJ\AppData\Roaming\Typora\typora-user-images\image-20210317155145829.png)
+![image-20210317155145829](https://user-images.githubusercontent.com/42714724/111427463-7f168500-8739-11eb-9ef7-de8b7c5daf28.png)
