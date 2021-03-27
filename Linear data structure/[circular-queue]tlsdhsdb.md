@@ -9,7 +9,9 @@
 
 초기화 상태
 
-![%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%8F%E1%85%B2%20797e8e77fe774bedb7ef193d5fc54e2d/Untitled.png](%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%8F%E1%85%B2%20797e8e77fe774bedb7ef193d5fc54e2d/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/42714724/112713627-8f88e580-8f19-11eb-97f3-12610c9a5155.png)
+
+
 
 ## Enqueue
 
@@ -86,7 +88,8 @@ class MyCircularQueue:
         return self.front == self.rear and self.q[self.front] is not None
 ```
 
-![%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%8F%E1%85%B2%20797e8e77fe774bedb7ef193d5fc54e2d/Untitled%201.png](%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%8F%E1%85%B2%20797e8e77fe774bedb7ef193d5fc54e2d/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/42714724/112713636-99124d80-8f19-11eb-9459-1b889e734ab4.png)
+
 
 ### isEmpty / isFull ?
 
